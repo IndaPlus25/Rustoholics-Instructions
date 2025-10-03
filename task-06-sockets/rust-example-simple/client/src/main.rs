@@ -1,6 +1,7 @@
 use std::io;
 use std::io::prelude::*;
 use std::net::TcpStream;
+use std::process::Command;
 
 // Magic to get input from user
 fn get_u8_input(s: &str) -> u8 {
@@ -37,6 +38,10 @@ fn main() -> std::io::Result<()> {
             println!("Received from server: {c}\n");
         } else {
             println!("Couldn't connect to server...");
+
+            // Wait a bit
+            let mut child = Command::new("sleep").arg("1").spawn().unwrap();
+            let _result = child.wait().unwrap();
         };
     }
 }
