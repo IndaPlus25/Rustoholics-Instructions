@@ -3,6 +3,7 @@ use std::net::{TcpListener, TcpStream};
 use std::path::Component::Prefix;
 
 fn main() {
+    // Start Server on 127.0.0.1, with port 1337
     let listener = TcpListener::bind("127.0.0.1:1337").unwrap();
 
     loop {
