@@ -2,7 +2,7 @@
 In this task we will try to dive into the difficulties that concurrency creates; both in debugging existing code and developing new code.
 
 ### 💀 Deadline
-This work should be completed before the exercise on **Friday 12th April**.
+This work should be completed before the exercise on **Friday 27th March**.
 
 ### 👩‍🏫 Instructions
 For instructions on how to do and submit the assignment, please see the

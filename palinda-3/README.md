@@ -4,7 +4,7 @@ For the final task, we investigate the performance gains we can achieve by enabl
 
 ### 💀 Deadline
 
-This work should be completed before the exercise on **Friday 4th April**.
+This work should be completed before the exercise on **Friday 2nd April**.
 
 ### 👩‍🏫 Instructions
 

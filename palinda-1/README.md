@@ -4,7 +4,7 @@ Welcome to DD1396. In this task we will become acquainted with the Go programmin
 
 ### 💀 Deadline
 
-This work should be completed before the exercise on **Friday 21st March**.
+This work should be completed before the exercise on **Friday 19th March**.
 
 ### 👩‍🏫 Instructions
 
